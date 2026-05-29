@@ -31,7 +31,7 @@ It converts long URLs into short codes and stores them in a local SQLite databas
 
 ### 1. Clone or download project
 ```bash
-git clone git clone https://github.com/spakerdev/surl.git   
+git clone git clone https://github.com/apesta0/surl.git   
 cd surl
 ```
 
